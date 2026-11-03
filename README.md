@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... CS PLZ
 - 💬 Ask me about ... My name
 - 📫 How to reach me: ... My email!
-- 😄 Pronouns: ... He/Him
+- 😄 Pronouns: ... He/Him yep
 - ⚡ Fun fact: ... Im left handed
 -->
