@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Computer scincec
 - 👯 I’m looking to collaborate on ... GITHUB
 - 🤔 I’m looking for help with ... CS PLZ
-- 💬 Ask me about ... My name
+- 💬 Ask me about ... My name, My name is Tony!
 - 📫 How to reach me: ... My email!
 - 😄 Pronouns: ... He/Him yep
 - ⚡ Fun fact: ... Im left handed
